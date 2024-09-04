@@ -1,1 +1,1 @@
-# E-Commerce-frontend (Responsive Websie) 
+# E-Commerce-frontend (Responsive Website) 
